@@ -13,11 +13,7 @@ Designed and deployed a highly available file upload web application using Micro
 - Linux
 - Networking & VNet Peering
 
-## 📂 Architecture
-![Architecture Diagram](./architecture.png) 
 
-## ⚙️ How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/harish-cloud-dot/azure-multi-region-webapp.git
+
+
 
